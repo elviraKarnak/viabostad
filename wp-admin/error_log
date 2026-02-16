@@ -1,0 +1,248 @@
+[06-Feb-2026 13:46:36 UTC] PHP Warning:  require(/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php): Failed to open stream: No such file or directory in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 13:46:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php:62
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-settings.php(710): include()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-config.php(102): require_once('/home/hguusaov/...')
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-load.php(50): require_once('/home/hguusaov/...')
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(22): require_once('/home/hguusaov/...')
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 13:46:38 UTC] PHP Warning:  require(/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php): Failed to open stream: No such file or directory in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 13:46:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php:62
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-settings.php(710): include()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-config.php(102): require_once('/home/hguusaov/...')
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-load.php(50): require_once('/home/hguusaov/...')
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(22): require_once('/home/hguusaov/...')
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 13:46:38 UTC] PHP Warning:  require(/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php): Failed to open stream: No such file or directory in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 13:46:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php:62
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-settings.php(710): include()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-config.php(102): require_once('/home/hguusaov/...')
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-load.php(50): require_once('/home/hguusaov/...')
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin.php(35): require_once('/home/hguusaov/...')
+#4 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/post.php(12): require_once('/home/hguusaov/...')
+#5 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 13:46:41 UTC] PHP Warning:  require(/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php): Failed to open stream: No such file or directory in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 13:46:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php:62
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-settings.php(710): include()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-config.php(102): require_once('/home/hguusaov/...')
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-load.php(50): require_once('/home/hguusaov/...')
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin.php(35): require_once('/home/hguusaov/...')
+#4 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/post.php(12): require_once('/home/hguusaov/...')
+#5 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 13:46:46 UTC] PHP Warning:  require(/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php): Failed to open stream: No such file or directory in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 13:46:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/shortcodes/home-search.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php:62
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-settings.php(710): include()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-config.php(102): require_once('/home/hguusaov/...')
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-load.php(50): require_once('/home/hguusaov/...')
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(22): require_once('/home/hguusaov/...')
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/functions.php on line 62
+[06-Feb-2026 14:08:25 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:41 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:41 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:41 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:42 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:42 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:42 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:48 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:48 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:49 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[06-Feb-2026 14:08:49 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 11:59:55 UTC] PHP Warning:  Undefined variable $i in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/property.php on line 53
+[09-Feb-2026 12:05:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/about.php on line 16
+[09-Feb-2026 12:05:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/about.php on line 17
+[09-Feb-2026 12:05:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/about.php on line 18
+[09-Feb-2026 12:05:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/about.php on line 19
+[09-Feb-2026 12:16:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/about.php on line 16
+[09-Feb-2026 12:16:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/about.php on line 17
+[09-Feb-2026 12:16:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/about.php on line 18
+[09-Feb-2026 12:16:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/about.php on line 19
+[09-Feb-2026 12:36:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/why-choose.php on line 19
+[09-Feb-2026 12:36:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/why-choose.php on line 20
+[09-Feb-2026 12:36:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/why-choose.php on line 21
+[09-Feb-2026 12:36:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/home/why-choose.php on line 22
+[09-Feb-2026 13:50:18 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:35 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:36 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:36 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:37 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:37 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:38 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:46 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:47 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:48 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[09-Feb-2026 13:50:49 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[10-Feb-2026 13:07:03 UTC] PHP Warning:  Array to string conversion in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/theme/contact-box.php on line 162
+[10-Feb-2026 13:07:03 UTC] PHP Warning:  Array to string conversion in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/theme/contact-box.php on line 162
+[10-Feb-2026 13:07:03 UTC] PHP Warning:  Array to string conversion in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/theme/contact-box.php on line 162
+[10-Feb-2026 13:07:03 UTC] PHP Warning:  Array to string conversion in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/theme/contact-box.php on line 162
+[10-Feb-2026 13:07:03 UTC] PHP Warning:  Array to string conversion in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/theme-blocks/theme/contact-box.php on line 162
+[11-Feb-2026 10:22:27 UTC] PHP Warning:  Undefined variable $broker_query in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 348
+[11-Feb-2026 10:22:27 UTC] PHP Warning:  Attempt to read property "found_posts" on null in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 348
+[11-Feb-2026 10:22:27 UTC] PHP Warning:  Undefined variable $broker_query in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 369
+[11-Feb-2026 10:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php:369
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(341): broker_search_ajax()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/plugin.php(522): WP_Hook->do_action()
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 369
+[11-Feb-2026 10:23:47 UTC] PHP Warning:  Undefined variable $broker_query in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 348
+[11-Feb-2026 10:23:47 UTC] PHP Warning:  Attempt to read property "found_posts" on null in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 348
+[11-Feb-2026 10:23:47 UTC] PHP Warning:  Undefined variable $broker_query in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 369
+[11-Feb-2026 10:23:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php:369
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(341): broker_search_ajax()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/plugin.php(522): WP_Hook->do_action()
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 369
+[12-Feb-2026 13:00:40 UTC] PHP Warning:  Undefined array key "tax_query" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:00:40 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php:511
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(341): filter_search_property_cb()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/plugin.php(522): WP_Hook->do_action()
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(207): do_action()
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:17:07 UTC] PHP Warning:  Undefined array key "tax_query" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:17:07 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php:511
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(341): filter_search_property_cb()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/plugin.php(522): WP_Hook->do_action()
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:17:52 UTC] PHP Warning:  Undefined array key "tax_query" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:17:52 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php:511
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(341): filter_search_property_cb()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/plugin.php(522): WP_Hook->do_action()
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:22:02 UTC] PHP Warning:  Undefined array key "tax_query" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:22:02 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php:511
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(341): filter_search_property_cb()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/plugin.php(522): WP_Hook->do_action()
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:24:56 UTC] PHP Warning:  Undefined array key "tax_query" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:24:56 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php:511
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(341): filter_search_property_cb()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/plugin.php(522): WP_Hook->do_action()
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 511
+[12-Feb-2026 13:30:00 UTC] PHP Warning:  Undefined array key "tax_query" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 515
+[12-Feb-2026 13:30:00 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php:515
+Stack trace:
+#0 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(341): filter_search_property_cb()
+#1 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#2 /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/plugin.php(522): WP_Hook->do_action()
+#3 /home/hguusaov/viabostad.elvirainfotech.live/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 515
+[12-Feb-2026 13:30:43 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:30:49 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:30:50 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:30:55 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:01 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:07 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:07 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:22 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:28 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:32 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:34 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:40 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:31:46 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tax_query", expecting ")" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 470
+[12-Feb-2026 13:51:42 UTC] PHP Warning:  Undefined variable $first in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 541
+[12-Feb-2026 13:51:42 UTC] PHP Warning:  Undefined variable $last in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 541
+[12-Feb-2026 13:51:42 UTC] PHP Warning:  Undefined variable $first in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 547
+[12-Feb-2026 13:51:42 UTC] PHP Warning:  Undefined variable $last in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 547
+[12-Feb-2026 13:53:31 UTC] PHP Warning:  Undefined variable $first in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 541
+[12-Feb-2026 13:53:31 UTC] PHP Warning:  Undefined variable $last in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 541
+[12-Feb-2026 13:54:16 UTC] PHP Warning:  Undefined variable $first in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 541
+[12-Feb-2026 13:54:16 UTC] PHP Warning:  Undefined variable $last in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 541
+[12-Feb-2026 13:54:26 UTC] PHP Warning:  Undefined variable $first in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 541
+[12-Feb-2026 13:54:26 UTC] PHP Warning:  Undefined variable $last in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 541
+[12-Feb-2026 13:57:23 UTC] PHP Warning:  Undefined variable $last in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 542
+[13-Feb-2026 10:39:24 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:39:32 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:39:36 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:39:36 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:39:36 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:39:37 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:39:47 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:39:57 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:40:01 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:40:07 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:40:17 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:40:32 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:41:35 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:41:36 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:41:36 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:42:02 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:42:17 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:42:33 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:43:36 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>viabosted</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/functions.php on line 6131
+[13-Feb-2026 10:43:36 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:43:37 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>viabosted</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/functions.php on line 6131
+[13-Feb-2026 10:43:37 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:43:37 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>viabosted</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/functions.php on line 6131
+[13-Feb-2026 10:43:37 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:44:03 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>viabosted</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/functions.php on line 6131
+[13-Feb-2026 10:44:03 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:44:18 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>viabosted</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/functions.php on line 6131
+[13-Feb-2026 10:44:18 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 10:44:34 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>viabosted</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home/hguusaov/viabostad.elvirainfotech.live/wp-includes/functions.php on line 6131
+[13-Feb-2026 10:44:34 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 362
+[13-Feb-2026 11:03:20 UTC] PHP Warning:  Undefined array key "agency" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 277
+[13-Feb-2026 11:03:20 UTC] PHP Warning:  Undefined variable $post_id in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 310
+[13-Feb-2026 11:10:40 UTC] PHP Warning:  Undefined array key "agency" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 277
+[13-Feb-2026 11:10:40 UTC] PHP Warning:  Undefined variable $post_id in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 310
+[13-Feb-2026 13:01:09 UTC] PHP Warning:  Undefined variable $post_id in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 310
+[13-Feb-2026 13:44:32 UTC] PHP Warning:  Undefined array key "agency" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 277
+[13-Feb-2026 13:44:33 UTC] PHP Warning:  Undefined variable $post_id in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 310
+[16-Feb-2026 04:47:49 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:04 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:05 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:05 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:06 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:07 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:08 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:18 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:18 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:20 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 04:48:20 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 11:52:04 UTC] PHP Warning:  Undefined array key "location" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 669
+[16-Feb-2026 11:52:04 UTC] PHP Warning:  Undefined array key "address" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 670
+[16-Feb-2026 11:57:47 UTC] PHP Warning:  Undefined array key "location" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 669
+[16-Feb-2026 12:08:47 UTC] PHP Warning:  Undefined array key "location" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 669
+[16-Feb-2026 12:12:14 UTC] PHP Warning:  Undefined array key "location" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 669
+[16-Feb-2026 12:15:05 UTC] PHP Warning:  Undefined array key "location" in /home/hguusaov/viabostad.elvirainfotech.live/wp-content/themes/viabostad/inc/custom_functions.php on line 669
+[16-Feb-2026 13:59:19 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 13:59:20 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 13:59:21 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 13:59:22 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 13:59:23 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY
+[16-Feb-2026 13:59:24 UTC] ERROR UNSERIALIZE DATA: null RESET TO EMPTY ARRAY

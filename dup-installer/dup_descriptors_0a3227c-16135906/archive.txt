@@ -1,0 +1,1151 @@
+{
+    "CL_-=_-=": "Duplicator\\Installer\\Package\\ArchiveDescriptor",
+    "dup_type": "pro",
+    "created": "2026-02-16 13:59:06",
+    "version_dup": "4.5.22.5",
+    "version_wp": "6.9.1",
+    "version_db": "10.6.25",
+    "version_php": "8.2.30",
+    "version_os": "Linux",
+    "blogname": "Viabostad",
+    "exportOnlyDB": false,
+    "secure_on": 0,
+    "secure_pass": "",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wpgf_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorSubsite",
+            "id": 1,
+            "domain": "viabostad.elvirainfotech.live",
+            "path": "\/",
+            "blogname": "Viabostad",
+            "blog_prefix": "wpgf_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "CL_-=_-=": "stdClass",
+                    "ID": "1",
+                    "user_login": "admin@viabostad",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/viabostad.elvirainfotech.live",
+            "fullSiteUrl": "https:\/\/viabostad.elvirainfotech.live",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/viabostad.elvirainfotech.live\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 100,
+    "license_type": 11,
+    "dbInfo": {
+        "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBInfo",
+        "buildMode": "PHPCHUNKING",
+        "charSetList": [
+            "utf8mb4",
+            "utf8mb3"
+        ],
+        "collationList": [
+            "utf8mb3_general_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": false,
+        "lowerCaseTableNames": 0,
+        "isNameUpperCase": false,
+        "name": "hguusaov_wp5478",
+        "tablesBaseCount": 76,
+        "tablesFinalCount": 76,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 3879,
+        "tablesSizeOnDisk": 8667136,
+        "tablesList": {
+            "wpgf_actionscheduler_actions": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "268",
+                "insertedRows": 268,
+                "size": 327680
+            },
+            "wpgf_actionscheduler_claims": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_actionscheduler_groups": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "7",
+                "insertedRows": 9,
+                "size": 32768
+            },
+            "wpgf_actionscheduler_logs": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "774",
+                "insertedRows": 774,
+                "size": 114688
+            },
+            "wpgf_bp_activity": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "6",
+                "insertedRows": 6,
+                "size": 180224
+            },
+            "wpgf_bp_activity_meta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_bp_invitations": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 163840
+            },
+            "wpgf_bp_notifications": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wpgf_bp_notifications_meta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_bp_optouts": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wpgf_bp_xprofile_data": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "8",
+                "insertedRows": 8,
+                "size": 49152
+            },
+            "wpgf_bp_xprofile_fields": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "522",
+                "insertedRows": 522,
+                "size": 163840
+            },
+            "wpgf_bp_xprofile_groups": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "3",
+                "insertedRows": 3,
+                "size": 32768
+            },
+            "wpgf_bp_xprofile_meta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "44",
+                "insertedRows": 44,
+                "size": 49152
+            },
+            "wpgf_commentmeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_comments": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 1,
+                "size": 131072
+            },
+            "wpgf_duplicator_activity_logs": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "22",
+                "insertedRows": 25,
+                "size": 114688
+            },
+            "wpgf_duplicator_backups": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "2",
+                "insertedRows": 3,
+                "size": 196608
+            },
+            "wpgf_duplicator_entities": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "8",
+                "insertedRows": 8,
+                "size": 163840
+            },
+            "wpgf_gf_addon_feed": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_gf_draft_submissions": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_gf_entry": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_gf_entry_meta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wpgf_gf_entry_notes": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_gf_form": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "2",
+                "insertedRows": 3,
+                "size": 16384
+            },
+            "wpgf_gf_form_meta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "2",
+                "insertedRows": 3,
+                "size": 16384
+            },
+            "wpgf_gf_form_revisions": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_gf_form_view": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wpgf_links": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_options": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "630",
+                "insertedRows": 639,
+                "size": 3276800
+            },
+            "wpgf_postmeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "627",
+                "insertedRows": 627,
+                "size": 212992
+            },
+            "wpgf_posts": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "285",
+                "insertedRows": 285,
+                "size": 393216
+            },
+            "wpgf_signups": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpgf_termmeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "9",
+                "insertedRows": 9,
+                "size": 49152
+            },
+            "wpgf_terms": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "51",
+                "insertedRows": 51,
+                "size": 49152
+            },
+            "wpgf_term_relationships": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "65",
+                "insertedRows": 65,
+                "size": 32768
+            },
+            "wpgf_term_taxonomy": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "51",
+                "insertedRows": 51,
+                "size": 49152
+            },
+            "wpgf_usermeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "308",
+                "insertedRows": 308,
+                "size": 81920
+            },
+            "wpgf_users": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "9",
+                "insertedRows": 9,
+                "size": 65536
+            },
+            "wpgf_wc_admin_notes": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "56",
+                "insertedRows": 61,
+                "size": 65536
+            },
+            "wpgf_wc_admin_note_actions": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "86",
+                "insertedRows": 86,
+                "size": 32768
+            },
+            "wpgf_wc_category_lookup": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "13",
+                "insertedRows": 13,
+                "size": 16384
+            },
+            "wpgf_wc_customer_lookup": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "1",
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wpgf_wc_download_log": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_wc_orders": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "1",
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wpgf_wc_orders_meta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_wc_order_addresses": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpgf_wc_order_coupon_lookup": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_wc_order_operational_data": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "1",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_wc_order_product_lookup": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wpgf_wc_order_stats": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpgf_wc_order_tax_lookup": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_wc_product_attributes_lookup": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_wc_product_download_directories": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "2",
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wpgf_wc_product_meta_lookup": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "9",
+                "insertedRows": 9,
+                "size": 131072
+            },
+            "wpgf_wc_rate_limits": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_wc_reserved_stock": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpgf_wc_tax_rate_classes": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "2",
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wpgf_wc_webhooks": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_woocommerce_api_keys": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_woocommerce_attribute_taxonomies": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_woocommerce_downloadable_product_permissions": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wpgf_woocommerce_log": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_woocommerce_order_itemmeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_woocommerce_order_items": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_woocommerce_payment_tokenmeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_woocommerce_payment_tokens": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_woocommerce_sessions": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "4",
+                "insertedRows": 4,
+                "size": 49152
+            },
+            "wpgf_woocommerce_shipping_zones": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpgf_woocommerce_shipping_zone_locations": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_woocommerce_shipping_zone_methods": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpgf_woocommerce_tax_rates": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpgf_woocommerce_tax_rate_locations": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_yith_wcwl": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "1",
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpgf_yith_wcwl_itemmeta": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpgf_yith_wcwl_lists": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorDBTableInfo",
+                "inaccurateRows": "0",
+                "insertedRows": 1,
+                "size": 49152
+            }
+        },
+        "dbEngine": "MariaDB",
+        "version": "10.6.25",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPackageInfo",
+        "packageId": 8,
+        "packageName": "20260216_viabostad",
+        "packageHash": "0a3227c-16135906",
+        "secondaryHash": "4908eda-16135906"
+    },
+    "fileInfo": {
+        "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorFileInfo",
+        "dirCount": 2532,
+        "fileCount": 15042,
+        "size": 103928879
+    },
+    "wpInfo": {
+        "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorWpInfo",
+        "version": "6.9.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/",
+        "targetPaths": [
+            "\/home\/hguusaov\/viabostad.elvirainfotech.live"
+        ],
+        "adminUsers": [
+            {
+                "CL_-=_-=": "stdClass",
+                "ID": "1",
+                "user_login": "admin@viabostad",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "CL_-=_-=": "stdClass",
+            "defines": {
+                "CL_-=_-=": "stdClass",
+                "ABSPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "li2xl8dtdz8pwsih4laap6vc1pnsedlgr3knlyxtruqy0qfmpiglpexlxjyb9u7y",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "u9yq1redx72hkh1zvgtyjsqgax76kea7yutfgfw8yemqoliow3iepfhmwn7jecro",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "xgikv3adchdxlgssu0dglapakiq6ggx3nyrntxsk1buxnjme7ls7x20i72nnrhgu",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "akifynij7bbx5cusn0ix659ranp6dexgxqjoecsbug38zjvepwxjfbreg6vzq1r0",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "24n523znfhyfmp4izdv1eajoyhzvrru9urcnsnzzsajkrvrnothca8wol5ekgowy",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "twvplb9jepiji0zinqmwgsswtzdm6i3jezqk9x3uxfuqhcztdgsksdx6ss87ilxc",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "bdawxzdfucr9oyvrf7brj5fxaurdcihcav6ey9rwm8ndm5r2fb0jc8f6ubxet7q8",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "xbw10jgyxfanbaqozljn4h7hudkjngvxiaxcjpwgcfpmfbjivg1glzqspjkwmub2",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "https:\/\/viabostad.elvirainfotech.live\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "https:\/\/viabostad.elvirainfotech.live\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "CL_-=_-=": "stdClass",
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "CL_-=_-=": "stdClass",
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "CL_-=_-=": "stdClass",
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "1G",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "CL_-=_-=": "stdClass",
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "CL_-=_-=": "stdClass",
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/themes\/viabostad",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/themes\/viabostad",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "CL_-=_-=": "stdClass",
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "CL_-=_-=": "stdClass",
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "https:\/\/viabostad.elvirainfotech.live\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "CL_-=_-=": "stdClass",
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "CL_-=_-=": "stdClass",
+                "siteUrl": "https:\/\/viabostad.elvirainfotech.live",
+                "homeUrl": "https:\/\/viabostad.elvirainfotech.live",
+                "loginUrl": "https:\/\/viabostad.elvirainfotech.live\/wp-login.php",
+                "contentUrl": "https:\/\/viabostad.elvirainfotech.live\/wp-content",
+                "uploadBaseUrl": "https:\/\/viabostad.elvirainfotech.live\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/viabostad.elvirainfotech.live\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/viabostad.elvirainfotech.live\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/viabostad.elvirainfotech.live\/wp-content\/themes",
+                "originalPaths": {
+                    "CL_-=_-=": "stdClass",
+                    "home": "\/home\/hguusaov\/viabostad.elvirainfotech.live",
+                    "abs": "\/home\/hguusaov\/viabostad.elvirainfotech.live",
+                    "wpconfig": "\/home\/hguusaov\/viabostad.elvirainfotech.live",
+                    "wpcontent": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content",
+                    "uploads": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/uploads",
+                    "plugins": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/plugins",
+                    "muplugins": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/mu-plugins",
+                    "themes": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "CL_-=_-=": "stdClass",
+                    "home": "\/home\/hguusaov\/viabostad.elvirainfotech.live",
+                    "abs": "\/home\/hguusaov\/viabostad.elvirainfotech.live",
+                    "wpconfig": "\/home\/hguusaov\/viabostad.elvirainfotech.live",
+                    "wpcontent": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content",
+                    "uploads": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/uploads",
+                    "plugins": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/plugins",
+                    "muplugins": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/mu-plugins",
+                    "themes": "\/home\/hguusaov\/viabostad.elvirainfotech.live\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "advanced-custom-fields-pro\/acf.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "advanced-custom-fields-pro\/acf.php",
+                "name": "Advanced Custom Fields PRO",
+                "version": "6.7.0.2",
+                "pluginURI": "https:\/\/www.advancedcustomfields.com",
+                "author": "WP Engine",
+                "authorURI": "https:\/\/wpengine.com\/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=plugin_directory&utm_content=advanced_custom_fields",
+                "description": "Customize WordPress with powerful, professional and intuitive fields.",
+                "title": "Advanced Custom Fields PRO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "buddycommerce\/buddycommerce.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "buddycommerce\/buddycommerce.php",
+                "name": "BuddyCommerce",
+                "version": "1.0.8",
+                "pluginURI": "https:\/\/buddydev.com\/plugins\/buddycommerce\/",
+                "author": "BuddyDev",
+                "authorURI": "https:\/\/buddydev.com\/",
+                "description": "BuddyPress and WooCommerce Integration.",
+                "title": "BuddyCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "buddypress\/bp-loader.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "buddypress\/bp-loader.php",
+                "name": "BuddyPress",
+                "version": "14.4.0",
+                "pluginURI": "https:\/\/buddypress.org",
+                "author": "The BuddyPress Community",
+                "authorURI": "https:\/\/buddypress.org",
+                "description": "BuddyPress adds community features to WordPress. Member Profiles, Activity Streams, Direct Messaging, Notifications, and more!",
+                "title": "BuddyPress",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "duplicator-pro\/duplicator-pro.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "duplicator-pro\/duplicator-pro.php",
+                "name": "Duplicator Pro",
+                "version": "4.5.22.5",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Create, schedule and transfer a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "gravityforms\/gravityforms.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "gravityforms\/gravityforms.php",
+                "name": "Gravity Forms",
+                "version": "2.9.23.2",
+                "pluginURI": "https:\/\/gravityforms.com",
+                "author": "Gravity Forms",
+                "authorURI": "https:\/\/gravityforms.com",
+                "description": "Easily create web forms and manage form entries within the WordPress admin.",
+                "title": "Gravity Forms",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "post-duplicator\/m4c-postduplicator.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "post-duplicator\/m4c-postduplicator.php",
+                "name": "Post Duplicator",
+                "version": "3.0.8",
+                "pluginURI": "",
+                "author": "Metaphor Creations",
+                "authorURI": "http:\/\/www.metaphorcreations.com",
+                "description": "Creates functionality to duplicate any and all post types, including taxonomies & custom fields",
+                "title": "Post Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "show-current-template\/show-current-template.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "show-current-template\/show-current-template.php",
+                "name": "Show Current Template",
+                "version": "0.5.4",
+                "pluginURI": "https:\/\/wp.tekapo.com\/",
+                "author": "JOTAKI Taisuke",
+                "authorURI": "https:\/\/tekapo.com\/",
+                "description": "Show the current template file name in the tool bar. <a href=\"https:\/\/wp.tekapo.com\/is-my-plugin-useful\/\">Is this useful for you?<\/a>",
+                "title": "Show Current Template",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "svg-support\/svg-support.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "svg-support\/svg-support.php",
+                "name": "SVG Support",
+                "version": "2.5.14",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/svg-support\/",
+                "author": "",
+                "authorURI": "https:\/\/benbodhi.com",
+                "description": "Upload SVG files to the Media Library and render SVG files inline for direct styling\/animation of an SVG's internal elements using CSS\/JS.",
+                "title": "SVG Support",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "woocommerce\/woocommerce.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "10.5.1",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An ecommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            },
+            "yith-woocommerce-wishlist\/init.php": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorPlugin",
+                "slug": "yith-woocommerce-wishlist\/init.php",
+                "name": "YITH WooCommerce Wishlist",
+                "version": "4.12.0",
+                "pluginURI": "https:\/\/yithemes.com\/themes\/plugins\/yith-woocommerce-wishlist\/",
+                "author": "YITH",
+                "authorURI": "https:\/\/yithemes.com\/",
+                "description": "<code><strong>YITH WooCommerce Wishlist<\/strong><\/code> gives your users the possibility to create, fill, manage and share their wishlists allowing you to analyze their interests and needs to improve your marketing strategies. <a href=\"https:\/\/yithemes.com\/\" target=\"_blank\">Get more plugins for your e-commerce on <strong>YITH<\/strong><\/a>",
+                "title": "YITH WooCommerce Wishlist",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false,
+                "isInArchive": true
+            }
+        },
+        "themes": {
+            "twentytwentyfive": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorTheme",
+                "slug": "twentytwentyfive",
+                "themeName": "Twenty Twenty-Five",
+                "version": "1.4",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfive\/",
+                "parentTheme": false,
+                "template": "twentytwentyfive",
+                "stylesheet": "twentytwentyfive",
+                "description": "Twenty Twenty-Five emphasizes simplicity and adaptability. It offers flexible design options, supported by a variety of patterns for different page types, such as services and landing pages, making it ideal for building personal blogs, professional portfolios, online magazines, or business websites. Its templates cater to various blog styles, from text-focused to image-heavy layouts. Additionally, it supports international typography and diverse color palettes, ensuring accessibility and customization for users worldwide.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentyfour": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorTheme",
+                "slug": "twentytwentyfour",
+                "themeName": "Twenty Twenty-Four",
+                "version": "1.4",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfour\/",
+                "parentTheme": false,
+                "template": "twentytwentyfour",
+                "stylesheet": "twentytwentyfour",
+                "description": "Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorTheme",
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.6",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "viabostad": {
+                "CL_-=_-=": "Duplicator\\Installer\\Package\\DescriptorTheme",
+                "slug": "viabostad",
+                "themeName": "Viabosted",
+                "version": "1.0",
+                "themeURI": "",
+                "parentTheme": false,
+                "template": "viabostad",
+                "stylesheet": "viabostad",
+                "description": "Fully Dynamic WordPress Multisite  Bootstrapped Responsive Theme",
+                "author": "Raihan Reza",
+                "authorURI": "",
+                "tags": [
+                    "Bootstrap",
+                    "Blog",
+                    "ACF",
+                    "Gutenberg Custom Background",
+                    "Multisite",
+                    "Buddypress",
+                    "Custom Colors",
+                    "Custom Logo",
+                    "Custom Menu",
+                    "Featured Images",
+                    "Customized Template"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": 3,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": [
+        "duplicator_pro_ui_view_state",
+        "duplicator_pro_package_active",
+        "duplicator_pro_settings"
+    ],
+    "brand": {
+        "name": "Duplicator Professional",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator Pro",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "cpnl-dbaction": {
+            "value": "create"
+        }
+    },
+    "installer_base_name": "installer.php",
+    "installer_backup_name": "20260216_viabostad_0a3227ce77734f583194_20260216135906_installer-backup.php",
+    "package_name": "20260216_viabostad_0a3227ce77734f583194_20260216135906_archive.zip",
+    "package_hash": "0a3227c-16135906",
+    "package_notes": "The default template."
+}
