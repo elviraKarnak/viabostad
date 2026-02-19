@@ -60,7 +60,7 @@ get_header();
 
     $product_query = new WP_Query([
 
-      'post_type'      => 'product',
+      'post_type'      => 'property',
       'posts_per_page' => -1,
       'orderby' => 'id',
       'order' => 'ASC',
@@ -82,7 +82,7 @@ if ( $product_query->have_posts() ) { ?>
                   
                   $product_query->the_post();
 
-                    wc_get_template_part( 'content', 'product' );
+                    get_template_part( 'template-part/poperty-loop' );
                 
                 endwhile; 
             ?>
@@ -147,7 +147,7 @@ if ( $product_query->have_posts() ) { ?>
                   
                   ?>
                   <div class="btns_wrapper">
-                    <a href="tel+<?php echo preg_replace('/[^0-9]/', '', $phoneNo);?>"><i class="fas fa-phone-alt"></i><?php echo $phoneNo; ?></a>
+                    <a href="tel:+<?php echo preg_replace('/[^0-9]/', '', $phoneNo);?>"><i class="fas fa-phone-alt"></i><?php echo $phoneNo; ?></a>
                     <a href="mailto:<?php echo $user->user_email;?>"><i class="fas fa-envelope"></i><?php echo  $user->user_email;?></a>
                   </div>
               </div>

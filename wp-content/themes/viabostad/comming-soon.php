@@ -9,7 +9,7 @@ get_header();
 
          <main>
       <section class="inner-banner">
-        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/contact-banner.webp" alt="Inner banner" width="1920" height="390" alt="Inner banner">
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/<?php echo get_stylesheet_directory_uri(); ?>/assets/images/contact-banner.webp" alt="Inner banner" width="1920" height="390" alt="Inner banner">
       </section>
       <section class="default-content">
         <div class="container">
@@ -22,6 +22,7 @@ get_header();
         </div>
       </section>
   </main>
+
 
       <?php endwhile; 
     endif; 

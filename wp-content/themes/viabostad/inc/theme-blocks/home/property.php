@@ -27,7 +27,7 @@
                 </li>
                  <?php
                   $terms = get_terms([
-                      'taxonomy'   => 'product_cat',
+                      'taxonomy'   => 'property-type',
                       'hide_empty' => true, // set false if you want empty terms too
                   ]);
 
@@ -63,17 +63,16 @@
                       <?php 
                         $product_query = new WP_Query([
 
-                          'post_type'      => 'product',
+                          'post_type'      => 'property',
                           'posts_per_page' => 10,
                           'orderby' => 'id',
-                          'order' => 'ASC',
+                          'order' => 'DESC',
                       ]);
 
                 if ( $product_query->have_posts() ) { ?>
 
 
-                  <div
-                    class="tab-pane fade show active"
+                  <div class="tab-pane fade show active"
 
                     role="tabpanel"
                     aria-labelledby="pills-all-tab"
@@ -84,7 +83,7 @@
                     
                     $product_query->the_post();
 
-                      wc_get_template_part( 'content', 'product' );
+                      get_template_part( 'template-part/poperty-loop' );
                    
                    endwhile; ?>
 

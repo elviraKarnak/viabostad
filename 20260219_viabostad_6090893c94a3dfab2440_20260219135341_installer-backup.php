@@ -3197,11 +3197,11 @@ namespace {
     use Duplicator\Installer\Bootstrap\BootstrapView;
     use Duplicator\Installer\Bootstrap\LogHandler;
     class InstallerBootstrapData {
-        const ARCHIVE_FILENAME       = '20260216_viabostad_0a3227ce77734f583194_20260216135906_archive.zip';
-        const ARCHIVE_SIZE           = '103928879';
+        const ARCHIVE_FILENAME       = '20260219_viabostad_6090893c94a3dfab2440_20260219135341_archive.zip';
+        const ARCHIVE_SIZE           = '115884341';
         const INSTALLER_DIR_NAME     = 'dup-installer';
-        const PACKAGE_HASH           = '0a3227c-16135906';
-        const SECONDARY_PACKAGE_HASH = '6c9332c-16135906';
+        const PACKAGE_HASH           = '6090893-19135341';
+        const SECONDARY_PACKAGE_HASH = '194cd9d-19135341';
         const VERSION                = '4.5.22.5';
     }
     BootstrapUtils::phpVersionCheck(BootstrapRunner::MINIMUM_PHP_VERSION);

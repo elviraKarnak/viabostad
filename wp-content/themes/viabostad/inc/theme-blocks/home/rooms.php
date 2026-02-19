@@ -1,7 +1,7 @@
   <?php 
 
   $homePropertyTitle = get_field('tittle_hrb');
-  $homePC = get_field('product_categories');
+  $homePC = get_field('property_types');
 
   ?>   
      
@@ -30,7 +30,7 @@
 
 
                     $args = [
-                            'post_type'      => 'product',
+                            'post_type'      => 'property',
                             'posts_per_page' => 10,
                             'orderby'        => 'ID',
                             'order'          => 'ASC',
@@ -41,7 +41,7 @@
                      if ( ! empty( $homePC ) ) {
                         $args['tax_query'] = [
                             [
-                                'taxonomy' => 'product_cat',
+                                'taxonomy' => 'property-type',
                                 'field'    => 'term_id',
                                 'terms'    => $homePC,
                                 'operator' => 'IN',
@@ -66,7 +66,7 @@
                     
                           $product_query->the_post();
 
-                           wc_get_template_part( 'content', 'product' );
+                           get_template_part( 'template-part/poperty-loop' );
                   endwhile; ?>
             </div>
         <?php } ?>
